@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @EmilHytting
-- 👀 I’m interested in Dicord Bot Development or other sorts of development.
-- 🌱 I’m currently learning Python, SQL & C#
-- 💞️ I’m looking to collaborate on a discord bot, or other projects you have in mind.
-- 📫 How to reach me emilmhytting@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I cannot wake up before i get my black coffe. 
+<div align="center">
+<h1>Welcome👋</h1>
+</div>
 
-<!---
-EmilHytting/EmilHytting is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<div align="center">
+<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=EmilHytting&show_icons=true&theme=tokyonight"/>
+<img alt="Top langs" width="308px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilHytting&layout=compact&&langs_count=8&theme=tokyonight"/>
+</div>
